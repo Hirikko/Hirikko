@@ -24,7 +24,7 @@
   title="zsh Script"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg"
 />
 
 <img 
@@ -87,8 +87,25 @@
   width="30px"
   style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
-          
 
+---
+### 📊 Statistics 
+
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"     src="https://github-readme-stats.vercel.app/api?username-Hirikko&show_icons-true&theme-rose&include_all_commits-true&locale-pt-br"
+/>
+
+<img
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  style="padding-right: 10px;"     src="https://github-readme-stats.vercel.app/api/top-langs/?username-Hirikko&theme-rose&layout-compact&custom_title-Languages and Technologies&langs_count-10"
+/>
+
+Willing to collaborate on Testing/Games/Scripting
 <!--
 **Hirikko/Hirikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

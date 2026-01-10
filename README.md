@@ -4,7 +4,7 @@
   <img
       alt="followers"
       title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/GitHub/followers/Hirikko?color-236ad3&labelColor-1155ba&style-for-the-badge&logo-person-add&label-Follow&logoColor-white"
+      src="https://custom-icon-badges.demolab.com/github/followers/Hirikko?color-236ad3&labelColor-1155ba&style-for-the-badge&logo-github&label-Followers&logoColor-white"
   />
 </a>
 <a href="https://github.com/Hirikko?tab-repositories&sort-stargazers">
@@ -15,8 +15,79 @@
   />
 </a>
 
-Languages and Technologies 
+---
 
+### Languages and Technologies 
+<img 
+  align="left"
+  alt="zsh"
+  title="zsh Script"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="bash"
+  title="bash Script"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+  align="left"
+  alt="Html"
+  title="Html"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="Css"
+  title="Css"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+  align="left"
+  alt="Js"
+  title="Javascript"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="30px"
+  style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img
+  align="left"
+  alt="Linux"
+  title="Linux"
+  width="30px"
+  style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+          
 
 <!--
 **Hirikko/Hirikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

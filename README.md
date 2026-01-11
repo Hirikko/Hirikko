@@ -1,5 +1,6 @@
 # Hiriko
 **`Junior Fullstack`**
+
 <a href="https://github.com/Hirikko/?tab-followers">
   <img
       alt="followers"
@@ -7,6 +8,7 @@
       src="https://custom-icon-badges.demolab.com/github/followers/Hirikko?color-236ad3&labelColor-1155ba&style-for-the-badge&logo-github&label-Followers&logoColor-white"
   />
 </a>
+
 <a href="https://github.com/Hirikko?tab-repositories&sort-stargazers">
   <img 
       alt="total stars"
@@ -18,6 +20,7 @@
 ---
 
 ### Languages and Technologies 
+
 <img 
   align="left"
   alt="zsh"
@@ -87,6 +90,8 @@
   width="30px"
   style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
+
+Willing to collaborate on Testing/Games/Scripting
 
 <!--
 

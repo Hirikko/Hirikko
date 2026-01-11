@@ -93,7 +93,7 @@
 
 ---
 
-<p> <br> Willing to collaborate on Testing/Games/Scripting </p>
+<p> Willing to collaborate on Testing/Games/Scripting </p>
 
 <!--
 

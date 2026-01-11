@@ -88,8 +88,13 @@
   style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
----
+Willing to collaborate on Testing/Games/Scripting
+
+<!--
+
 ### 📊 Statistics 
+
+[![Hirikko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirikko)](https://github.com/anuraghazra/github-readme-stats)
 
 <img
   align="left"
@@ -105,8 +110,6 @@
   style="padding-right: 10px;"     src="https://github-readme-stats.vercel.app/api/top-langs/?username-Hirikko&theme-rose&layout-compact&custom_title-Languages and Technologies&langs_count-10"
 />
 
-Willing to collaborate on Testing/Games/Scripting
-<!--
 **Hirikko/Hirikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
